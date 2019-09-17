@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="text_user">uesr</string>
+    <string name="button_login">login</string>
+    <string name="text_pwd">password</string>
+    <string name="str1">Hello</string>
+    <string name="str2">Input your name</string>
+    <string name="btn_text">button</string>
+</resources>
