@@ -14,7 +14,7 @@
         android:layout_marginBottom="20dp"
         android:textSize="24sp"
         android:gravity="center"
-        android:text="@string/str1" />
+        android:text="@string/str2" />
 
     <EditText
         android:id="@+id/editText"
